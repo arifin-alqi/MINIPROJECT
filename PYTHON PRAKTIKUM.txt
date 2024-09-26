@@ -1,0 +1,16 @@
+# umur = int(input("masukan umur : "))
+
+# if umur >= 18:
+#     print("kamu sudah dewasa")
+# elif umur >= 12:
+#     print ("kamu masih remaja")
+# elif umur >= 6:
+#     print ("kamu masih anak-anak")
+# else:
+#     print ("kamu masih balita")
+ 
+angka = int(input("masukan nilai : "))
+for p in range (angka):
+    p +=100
+    print(p)
+    
